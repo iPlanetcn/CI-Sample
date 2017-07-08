@@ -10,6 +10,6 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        ((TextView) findViewById(R.id.tv_message)).setText(R.string.master);
+        ((TextView) findViewById(R.id.tv_message)).setText(R.string.develop);
     }
 }
