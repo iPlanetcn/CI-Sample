@@ -14,6 +14,7 @@ public class MainActivity extends AppCompatActivity {
         ((TextView) findViewById(R.id.tv_message)).setText(R.string.master);
         if (BuildConfig.DEBUG) {
             Log.d(TAG, "add something");
+            Log.d(TAG, "testing ding ding notification!");
         }
     }
 }
