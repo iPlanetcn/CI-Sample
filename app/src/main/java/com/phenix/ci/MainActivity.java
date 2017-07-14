@@ -17,7 +17,6 @@ public class MainActivity extends AppCompatActivity {
             Log.d(TAG, "testing ding ding notification!");
             Log.d(TAG, "message#1");
             Log.d(TAG, "message#2");
-            Log.d(TAG, "message#3");
         }
     }
 }
